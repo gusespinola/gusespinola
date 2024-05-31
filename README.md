@@ -3,7 +3,7 @@
 - 👀 Electronics and Telecommunications Engineer
 - ⚠️ Constantly looking for current trends in Science, Industry and overall Society
 - 🧠 Currently working at [Núcleo de Investigación y Desarrollo Tecnológico](https://nidtec.pol.una.py/)
-- 🔎 Scientific interests: Linear Algebra, Mathematical and Computational Modeling, Scientific Computing in general. 
+- 🔎 Interests: Linear Algebra, Mathematical and Computational Modeling, Software Enginnering for Scientific Computing. 
 - 🌱 Trained for applying Problem Solving techniques to everyday situations
 - 📫 Reach me at gustavoespinola@fpuna.edu.py 
 <!--- - 💞️ I’m looking to collaborate on ... --->

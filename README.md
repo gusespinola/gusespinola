@@ -3,6 +3,7 @@
 - 👀 Electronics and Telecommunications Engineer from [Facultad de Ingeniería, UNA, Paraguay](https://www.ing.una.py/?p=36579)
 - ⚠️ Constantly looking for current trends in Science, Industry and overall Society
 - 🧠 Currently working at [Núcleo de Investigación y Desarrollo Tecnológico](https://nidtec.pol.una.py/)
+- 🖥️ Collaborating in [KrySBAS](https://github.com/nidtec-una/krysbas-dev), a series of Krylov-based adaptive solvers for MATLAB.
 - 🔎 Interests: Linear Algebra, Mathematical and Computational Modeling, Software Enginnering for Scientific Computing. 
 - 🌱 Trained for applying Problem Solving techniques to everyday situations
 - 📫 Reach me at gustavoespinola@fpuna.edu.py 
